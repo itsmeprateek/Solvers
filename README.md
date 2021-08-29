@@ -7,10 +7,9 @@ Import Python libraries-
 5) OpenCV
 6) Tensorflow & Keras
 
-You can watch this video demonistration too https://youtu.be/LORUOoegAOM
+You can watch this video demonistration too https://youtu.be/AHaIVgEZq9Q
 
-
-WE ARE SOLVERS->
+WE ARE SOLVERS-->
 
 PRATEEK KUMAR-  
 SWAPAN CHETRI-
