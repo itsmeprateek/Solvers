@@ -13,5 +13,6 @@ You can watch this video demonistration too https://youtu.be/LORUOoegAOM
 WE ARE SOLVERS->
 
 PRATEEK KUMAR-  
-SAKSHI DUBEY-  
-VIJYA SINGH-  
+SWAPAN CHETRI-
+SANJEEV KUMAR PRAJATI-
+
